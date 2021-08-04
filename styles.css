@@ -1,0 +1,118 @@
+
+body{
+  font-family: "Anton", sans-serif;
+}
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+h1{
+  font-family: "Bebas Neue",black;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+p{
+  font-family: "Ubuntu", sans-serif;
+  color: #8f8f8f;
+}
+
+.Navi{
+  background-color: black;
+  padding-left: 16%;
+}
+.Nav-con{
+  padding-left: 70%;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* Title Image */
+
+.Phone{
+  transform: rotate(25deg);
+  padding-top: 2.5rem;
+  width: 60%;
+}
+
+/* Features */
+
+#features{
+  padding: 7% 15%;
+  text-align: center;
+}
+.icon{
+  color: #ef8172;
+  padding-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* testimonial section */
+
+#testimonials{
+  text-align: center;
+  background: #ef8172;
+  color: #fff;
+}
+
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* Pricing */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.card-header{
+  background-color: #ef8172;
+}
+
+/* Call To Action */
+
+#cta{
+  background-color: #ef8172;
+  text-align: center;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+
+/* Footer */
+#footer{
+
+}
